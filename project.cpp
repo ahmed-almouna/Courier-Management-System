@@ -55,7 +55,7 @@ int main(void)
 	/* open file for read mode and check for errors */
 	if ((fp = fopen("couriers.txt", "r")) == NULL)
 	{
-		printf("Unable to open file for reading\n");
+		printf("Unable to open couriers file for reading. Please make sure you have a couriers file.\n");
 		return -1;
 	}
 

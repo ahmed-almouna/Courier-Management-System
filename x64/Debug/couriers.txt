@@ -1,0 +1,2000 @@
+Azerbaijan, 28094, 1632.21
+Azerbaijan, 18067, 1618.68
+Azerbaijan, 10758, 643.56
+Azerbaijan, 6013, 44.38
+Azerbaijan, 1341, 680.76
+Azerbaijan, 1072, 279.47
+Azerbaijan, 10233, 403.13
+Azerbaijan, 6598, 515.63
+Azerbaijan, 13952, 472.52
+Azerbaijan, 12448, 553.37
+Azerbaijan, 12248, 497.86
+Azerbaijan, 15944, 1055.59
+Azerbaijan, 20462, 1518.69
+Azerbaijan, 19328, 1764.2
+Azerbaijan, 19077, 696.97
+Azerbaijan, 18998, 1118.69
+Azerbaijan, 20022, 1843.82
+Azerbaijan, 26682, 1271.41
+Azerbaijan, 22558, 1271.81
+Azerbaijan, 20627, 326.26
+Azerbaijan, 26688, 1811.49
+Azerbaijan, 40794, 888.82
+Azerbaijan, 35903, 1678.81
+Azerbaijan, 32464, 1971.39
+Azerbaijan, 29531, 457.5
+Azerbaijan, 29152, 961.4
+Azerbaijan, 34681, 73.71
+Azerbaijan, 37614, 760.32
+Azerbaijan, 37392, 356.2
+Azerbaijan, 37222, 718.41
+Azerbaijan, 38970, 1707.76
+Azerbaijan, 43544, 135.9
+Azerbaijan, 42162, 1645.23
+Azerbaijan, 41120, 1149.42
+Azerbaijan, 41011, 400.17
+Azerbaijan, 43186, 907.06
+Azerbaijan, 48780, 310.49
+Azerbaijan, 48724, 1860.67
+Azerbaijan, 47312, 771.18
+Azerbaijan, 48976, 202.23
+Italy, 28300, 1949.88
+Italy, 12718, 369.99
+Italy, 7819, 1709.37
+Italy, 4274, 1517.21
+Italy, 908, 1037.23
+Italy, 856, 713.01
+Italy, 7811, 1648.68
+Italy, 7379, 448.12
+Italy, 12129, 1226.24
+Italy, 10755, 1584.57
+Italy, 8868, 1409.96
+Italy, 12246, 1674.32
+Italy, 21007, 838.77
+Italy, 17655, 1960.46
+Italy, 16525, 1293.36
+Italy, 16146, 815.05
+Italy, 19274, 484.8
+Italy, 24827, 997.06
+Italy, 22024, 259.93
+Italy, 21224, 1679.83
+Italy, 25688, 703.17
+Italy, 42092, 233.26
+Italy, 32503, 1338.87
+Italy, 30460, 489.53
+Italy, 30255, 1716.15
+Italy, 28398, 1244.45
+Italy, 31252, 1323.61
+Italy, 40717, 345.72
+Italy, 39189, 1967.44
+Italy, 34779, 1849.86
+Italy, 41843, 943.93
+Italy, 44650, 1119.21
+Italy, 44225, 1382.65
+Italy, 42790, 1007.86
+Italy, 42743, 1971.33
+Italy, 44387, 488.65
+Italy, 48001, 1319.59
+Italy, 46139, 1891.79
+Italy, 45434, 1144.27
+Italy, 48407, 551.42
+Ukraine, 22083, 945.08
+Ukraine, 15373, 1587.16
+Ukraine, 11563, 21.54
+Ukraine, 6974, 255.01
+Ukraine, 4909, 1612.87
+Ukraine, 241, 1634.48
+Ukraine, 9316, 1375.54
+Ukraine, 8794, 1438.04
+Ukraine, 14383, 1471.47
+Ukraine, 14304, 16.86
+Ukraine, 11961, 763.06
+Ukraine, 14821, 367.84
+Ukraine, 16458, 1553.31
+Ukraine, 16176, 1162.04
+Ukraine, 15812, 1304.29
+Ukraine, 15673, 326.24
+Ukraine, 16206, 1067.37
+Ukraine, 21475, 1136.58
+Ukraine, 17364, 106.5
+Ukraine, 16938, 747.7
+Ukraine, 21493, 498.37
+Ukraine, 38392, 1106.26
+Ukraine, 30345, 65.79
+Ukraine, 28378, 1204.13
+Ukraine, 27910, 1714.35
+Ukraine, 22509, 1533.64
+Ukraine, 28717, 739.09
+Ukraine, 36679, 1032.41
+Ukraine, 32274, 1567.16
+Ukraine, 32109, 152.29
+Ukraine, 38218, 1214.96
+Ukraine, 44450, 857.98
+Ukraine, 42582, 167.3
+Ukraine, 42315, 1036.11
+Ukraine, 41032, 862.12
+Ukraine, 43422, 1879.28
+Ukraine, 47989, 501.72
+Ukraine, 47949, 1842.29
+Ukraine, 46660, 1493.91
+Ukraine, 49084, 537.14
+Germany, 30525, 1289.44
+Germany, 18990, 1102.9
+Germany, 10456, 1586.09
+Germany, 8115, 260.28
+Germany, 2386, 74.75
+Germany, 988, 1615.46
+Germany, 10422, 76.16
+Germany, 8709, 16.54
+Germany, 16170, 1732.5
+Germany, 15434, 1910.15
+Germany, 13556, 513.55
+Germany, 16327, 1917.7
+Germany, 25032, 1138.31
+Germany, 24186, 1588.56
+Germany, 21944, 465.87
+Germany, 19777, 538.43
+Germany, 24754, 1620.89
+Germany, 26338, 1657.67
+Germany, 26304, 480.49
+Germany, 25707, 1290.58
+Germany, 29495, 1522.64
+Germany, 42589, 1069.4
+Germany, 32682, 715.15
+Germany, 32349, 531.29
+Germany, 31868, 864.46
+Germany, 31681, 1247.72
+Germany, 32664, 1399.47
+Germany, 38953, 1043.43
+Germany, 38359, 546.29
+Germany, 32944, 1167.48
+Germany, 40359, 303.93
+Germany, 47301, 868.16
+Germany, 44559, 1132.5
+Germany, 43755, 1638.1
+Germany, 43366, 1139.25
+Germany, 45890, 1111.43
+Germany, 48362, 807.31
+Germany, 47961, 817.85
+Germany, 47933, 60.46
+Germany, 49528, 1966.02
+Australia, 25222, 13.56
+Australia, 13501, 1941.85
+Australia, 7121, 207.66
+Australia, 4655, 839.23
+Australia, 1570, 1573.7
+Australia, 1428, 1979.22
+Australia, 5439, 116.8
+Australia, 5211, 932.65
+Australia, 12150, 1707.11
+Australia, 11162, 1169.74
+Australia, 7250, 977.96
+Australia, 13033, 1263.56
+Australia, 17816, 353.41
+Australia, 17043, 414.37
+Australia, 16970, 990.38
+Australia, 14456, 1929.28
+Australia, 17411, 1570.14
+Australia, 22525, 1382.84
+Australia, 20703, 1241.86
+Australia, 19363, 1607.57
+Australia, 22782, 601.26
+Australia, 40095, 353.64
+Australia, 32164, 757.81
+Australia, 30574, 1416.45
+Australia, 27559, 116.78
+Australia, 25628, 551.04
+Australia, 30943, 97.01
+Australia, 34913, 1136.31
+Australia, 34459, 53.67
+Australia, 34156, 1501.87
+Australia, 35424, 493.85
+Australia, 48092, 1786.75
+Australia, 43307, 325.54
+Australia, 42073, 1992.83
+Australia, 40975, 47.76
+Australia, 44092, 1075.08
+Australia, 48631, 1560.86
+Australia, 48506, 138.41
+Australia, 48493, 80.18
+Australia, 49938, 1911.93
+Vanuatu, 24913, 1012.98
+Vanuatu, 13587, 999.64
+Vanuatu, 5733, 251.77
+Vanuatu, 3080, 401.2
+Vanuatu, 1105, 1726.47
+Vanuatu, 149, 507.44
+Vanuatu, 5599, 264.18
+Vanuatu, 3091, 1016.69
+Vanuatu, 9786, 504.23
+Vanuatu, 8469, 1844.23
+Vanuatu, 6098, 327.73
+Vanuatu, 13316, 134.02
+Vanuatu, 18115, 1508.49
+Vanuatu, 16725, 244.54
+Vanuatu, 16473, 1348.62
+Vanuatu, 15661, 248.08
+Vanuatu, 18067, 203.31
+Vanuatu, 21251, 162.03
+Vanuatu, 20978, 783.26
+Vanuatu, 19302, 1440.67
+Vanuatu, 22187, 182.57
+Vanuatu, 35142, 123.81
+Vanuatu, 31961, 1105.68
+Vanuatu, 30074, 1718.57
+Vanuatu, 29493, 713.7
+Vanuatu, 28280, 990.68
+Vanuatu, 30128, 1629.5
+Vanuatu, 34059, 1368.92
+Vanuatu, 33321, 1789.4
+Vanuatu, 32088, 287.75
+Vanuatu, 35047, 1668.41
+Vanuatu, 42472, 658.88
+Vanuatu, 40934, 1455.66
+Vanuatu, 40331, 567.6
+Vanuatu, 39671, 1963.04
+Vanuatu, 42289, 753.46
+Vanuatu, 46708, 1513.71
+Vanuatu, 43972, 1574.94
+Vanuatu, 43291, 1058.74
+Vanuatu, 47627, 397.88
+Bulgaria, 25631, 1158.08
+Bulgaria, 10854, 382.65
+Bulgaria, 8433, 1689.3
+Bulgaria, 4703, 650.73
+Bulgaria, 1847, 907.07
+Bulgaria, 1802, 908.44
+Bulgaria, 7764, 1335.47
+Bulgaria, 5727, 1122.06
+Bulgaria, 9947, 760.25
+Bulgaria, 9491, 902.12
+Bulgaria, 8496, 1089.55
+Bulgaria, 10052, 1509.56
+Bulgaria, 18133, 1901.93
+Bulgaria, 15864, 966.73
+Bulgaria, 14943, 1717.41
+Bulgaria, 12294, 1242.38
+Bulgaria, 17174, 1817.61
+Bulgaria, 23992, 691.71
+Bulgaria, 23543, 692.46
+Bulgaria, 19591, 319.93
+Bulgaria, 24587, 978.81
+Bulgaria, 35640, 1791.85
+Bulgaria, 30224, 991.51
+Bulgaria, 28527, 15.45
+Bulgaria, 26943, 1718.68
+Bulgaria, 26831, 329.87
+Bulgaria, 30091, 1004.05
+Bulgaria, 33400, 1059.1
+Bulgaria, 30742, 678.51
+Bulgaria, 30375, 846.02
+Bulgaria, 35048, 441.61
+Bulgaria, 47343, 1377.94
+Bulgaria, 42322, 1417.0
+Bulgaria, 41606, 1240.84
+Bulgaria, 39600, 1150.63
+Bulgaria, 47087, 184.82
+Bulgaria, 49311, 748.98
+Bulgaria, 48712, 1087.79
+Bulgaria, 48172, 176.32
+Bulgaria, 49925, 816.26
+Mongolia, 29652, 1214.4
+Mongolia, 17997, 1996.16
+Mongolia, 12873, 974.25
+Mongolia, 8887, 876.53
+Mongolia, 3612, 703.09
+Mongolia, 3260, 1779.4
+Mongolia, 12143, 1554.97
+Mongolia, 10759, 1835.5
+Mongolia, 16722, 1084.63
+Mongolia, 16129, 1291.44
+Mongolia, 14002, 1006.31
+Mongolia, 17175, 1013.16
+Mongolia, 26698, 1183.53
+Mongolia, 20903, 1077.98
+Mongolia, 19741, 417.25
+Mongolia, 19253, 418.77
+Mongolia, 22406, 536.6
+Mongolia, 28014, 302.99
+Mongolia, 27115, 1066.79
+Mongolia, 26881, 1361.35
+Mongolia, 28909, 1098.67
+Mongolia, 40590, 621.04
+Mongolia, 37020, 1469.01
+Mongolia, 36071, 942.93
+Mongolia, 34505, 1979.77
+Mongolia, 30396, 1374.99
+Mongolia, 36687, 1512.12
+Mongolia, 40220, 1469.59
+Mongolia, 40112, 393.09
+Mongolia, 37344, 1461.13
+Mongolia, 40529, 1283.06
+Mongolia, 46179, 1794.29
+Mongolia, 43546, 872.63
+Mongolia, 42652, 994.33
+Mongolia, 40897, 1356.92
+Mongolia, 45201, 1218.67
+Mongolia, 48666, 1737.29
+Mongolia, 47960, 1022.92
+Mongolia, 47638, 464.15
+Mongolia, 49452, 1205.49
+Armenia, 21555, 559.66
+Armenia, 11374, 221.09
+Armenia, 8337, 1200.25
+Armenia, 2971, 863.91
+Armenia, 2735, 772.47
+Armenia, 2309, 1840.65
+Armenia, 5229, 1621.46
+Armenia, 4948, 567.57
+Armenia, 10081, 1686.21
+Armenia, 9565, 966.13
+Armenia, 9541, 581.95
+Armenia, 11171, 1560.88
+Armenia, 14932, 140.38
+Armenia, 13636, 944.38
+Armenia, 12770, 617.63
+Armenia, 12257, 1345.81
+Armenia, 14116, 1348.83
+Armenia, 19870, 1834.36
+Armenia, 19115, 1437.17
+Armenia, 15142, 1255.36
+Armenia, 21380, 1633.46
+Armenia, 34764, 1384.12
+Armenia, 27460, 1402.74
+Armenia, 25154, 256.21
+Armenia, 23488, 141.15
+Armenia, 22456, 860.95
+Armenia, 25228, 534.65
+Armenia, 32977, 122.77
+Armenia, 31325, 189.22
+Armenia, 28722, 1949.84
+Armenia, 34514, 634.08
+Armenia, 40166, 319.83
+Armenia, 39685, 719.6
+Armenia, 39058, 1604.14
+Armenia, 38371, 1560.66
+Armenia, 40044, 1417.66
+Armenia, 45021, 1238.07
+Armenia, 44563, 857.39
+Armenia, 43842, 642.44
+Armenia, 49483, 1712.64
+Yemen, 22465, 785.67
+Yemen, 11158, 194.69
+Yemen, 6963, 1500.8
+Yemen, 3104, 1496.77
+Yemen, 796, 41.58
+Yemen, 150, 681.54
+Yemen, 6274, 62.47
+Yemen, 4059, 1586.42
+Yemen, 8882, 1533.44
+Yemen, 8435, 1982.14
+Yemen, 7967, 1204.51
+Yemen, 9989, 1714.02
+Yemen, 14682, 91.73
+Yemen, 11668, 705.31
+Yemen, 11344, 1520.76
+Yemen, 11289, 1142.46
+Yemen, 12403, 1353.99
+Yemen, 20481, 307.67
+Yemen, 18030, 1436.35
+Yemen, 14945, 1367.7
+Yemen, 22199, 1774.97
+Yemen, 35817, 980.04
+Yemen, 25603, 680.91
+Yemen, 22855, 812.98
+Yemen, 22828, 1641.89
+Yemen, 22821, 1161.3
+Yemen, 23616, 1953.53
+Yemen, 31568, 750.99
+Yemen, 30229, 446.08
+Yemen, 26308, 446.27
+Yemen, 33761, 11.87
+Yemen, 46687, 1609.04
+Yemen, 40331, 688.8
+Yemen, 38416, 1275.89
+Yemen, 37179, 496.43
+Yemen, 42025, 1937.79
+Yemen, 49663, 1301.36
+Yemen, 49509, 809.96
+Yemen, 49423, 771.48
+Yemen, 49708, 532.95
+Bahamas, 28737, 1641.38
+Bahamas, 17589, 1294.39
+Bahamas, 7911, 1133.32
+Bahamas, 4030, 338.25
+Bahamas, 2004, 1340.86
+Bahamas, 940, 1994.45
+Bahamas, 4937, 1201.53
+Bahamas, 4612, 1629.53
+Bahamas, 13660, 1168.18
+Bahamas, 12623, 780.08
+Bahamas, 10974, 105.74
+Bahamas, 16560, 1480.27
+Bahamas, 25923, 1076.79
+Bahamas, 21927, 1819.44
+Bahamas, 21586, 500.64
+Bahamas, 19236, 834.56
+Bahamas, 25579, 70.34
+Bahamas, 27246, 474.62
+Bahamas, 26889, 627.22
+Bahamas, 26129, 626.71
+Bahamas, 27914, 1937.21
+Bahamas, 43975, 1256.67
+Bahamas, 39280, 512.02
+Bahamas, 35685, 951.41
+Bahamas, 34900, 1075.1
+Bahamas, 30530, 1295.72
+Bahamas, 36469, 1059.46
+Bahamas, 41757, 311.43
+Bahamas, 40185, 1558.04
+Bahamas, 39323, 1536.17
+Bahamas, 42468, 993.6
+Bahamas, 44820, 334.08
+Bahamas, 44337, 46.91
+Bahamas, 44193, 1301.78
+Bahamas, 43989, 1213.47
+Bahamas, 44611, 1352.65
+Bahamas, 49482, 523.61
+Bahamas, 47465, 1007.82
+Bahamas, 45691, 1770.26
+Bahamas, 49923, 1214.32
+Trinidad & Tobago, 23575, 1289.33
+Trinidad & Tobago, 15345, 879.19
+Trinidad & Tobago, 6860, 675.42
+Trinidad & Tobago, 1823, 243.86
+Trinidad & Tobago, 875, 196.15
+Trinidad & Tobago, 521, 329.91
+Trinidad & Tobago, 6615, 1072.89
+Trinidad & Tobago, 6064, 1286.52
+Trinidad & Tobago, 12243, 1185.1
+Trinidad & Tobago, 9504, 899.29
+Trinidad & Tobago, 7889, 159.53
+Trinidad & Tobago, 12609, 961.44
+Trinidad & Tobago, 19758, 1145.35
+Trinidad & Tobago, 18022, 251.32
+Trinidad & Tobago, 17408, 322.21
+Trinidad & Tobago, 15732, 976.79
+Trinidad & Tobago, 18609, 473.96
+Trinidad & Tobago, 21422, 1486.63
+Trinidad & Tobago, 20265, 1002.24
+Trinidad & Tobago, 20257, 169.54
+Trinidad & Tobago, 23527, 218.2
+Trinidad & Tobago, 39178, 1272.94
+Trinidad & Tobago, 26805, 1132.65
+Trinidad & Tobago, 25419, 1154.94
+Trinidad & Tobago, 23972, 1543.63
+Trinidad & Tobago, 23746, 302.33
+Trinidad & Tobago, 26326, 1787.2
+Trinidad & Tobago, 29951, 1834.4
+Trinidad & Tobago, 27783, 1573.08
+Trinidad & Tobago, 26826, 1804.43
+Trinidad & Tobago, 35089, 1847.07
+Trinidad & Tobago, 43185, 1867.64
+Trinidad & Tobago, 41340, 1298.4
+Trinidad & Tobago, 40937, 1653.52
+Trinidad & Tobago, 39831, 616.18
+Trinidad & Tobago, 41536, 293.54
+Trinidad & Tobago, 48190, 331.46
+Trinidad & Tobago, 48139, 925.22
+Trinidad & Tobago, 47943, 1553.33
+Trinidad & Tobago, 48605, 339.31
+Spain, 28318, 594.0
+Spain, 16200, 50.49
+Spain, 6741, 982.18
+Spain, 5500, 1109.78
+Spain, 5078, 1376.08
+Spain, 4319, 1131.71
+Spain, 6699, 1264.46
+Spain, 6330, 1576.48
+Spain, 14388, 1062.84
+Spain, 11901, 911.47
+Spain, 7079, 1893.2
+Spain, 14873, 1869.75
+Spain, 24491, 750.1
+Spain, 20673, 1793.22
+Spain, 17493, 342.93
+Spain, 16430, 614.07
+Spain, 24049, 1685.79
+Spain, 26227, 631.23
+Spain, 25968, 1166.99
+Spain, 25931, 1489.96
+Spain, 27666, 1447.96
+Spain, 40212, 179.14
+Spain, 38529, 201.92
+Spain, 30568, 1256.86
+Spain, 30004, 218.86
+Spain, 29058, 404.43
+Spain, 31765, 490.4
+Spain, 39123, 1755.62
+Spain, 39117, 1862.92
+Spain, 38535, 208.74
+Spain, 39804, 957.04
+Spain, 44273, 1715.65
+Spain, 42291, 79.59
+Spain, 41768, 317.35
+Spain, 41664, 784.07
+Spain, 42435, 1405.94
+Spain, 48708, 1060.57
+Spain, 47595, 1305.65
+Spain, 47408, 1995.16
+Spain, 48800, 97.48
+Russian Federation, 29950, 1148.56
+Russian Federation, 15815, 1192.77
+Russian Federation, 6351, 829.08
+Russian Federation, 1785, 1747.75
+Russian Federation, 832, 626.59
+Russian Federation, 339, 593.44
+Russian Federation, 3791, 484.36
+Russian Federation, 2607, 572.76
+Russian Federation, 11722, 1863.9
+Russian Federation, 11638, 188.8
+Russian Federation, 11234, 1350.83
+Russian Federation, 14144, 688.72
+Russian Federation, 25135, 1512.53
+Russian Federation, 18016, 783.32
+Russian Federation, 17395, 469.36
+Russian Federation, 16269, 1443.64
+Russian Federation, 24081, 1489.25
+Russian Federation, 28473, 1249.42
+Russian Federation, 26338, 1587.97
+Russian Federation, 26008, 256.27
+Russian Federation, 28537, 1251.98
+Russian Federation, 39786, 1478.21
+Russian Federation, 36494, 1817.34
+Russian Federation, 34648, 492.47
+Russian Federation, 32813, 1032.71
+Russian Federation, 30507, 1088.78
+Russian Federation, 36444, 1929.02
+Russian Federation, 37897, 565.65
+Russian Federation, 37151, 1313.64
+Russian Federation, 36995, 1673.43
+Russian Federation, 38406, 388.74
+Russian Federation, 45099, 584.08
+Russian Federation, 43881, 1739.18
+Russian Federation, 42949, 1402.17
+Russian Federation, 42762, 1736.24
+Russian Federation, 44130, 388.01
+Russian Federation, 49771, 85.08
+Russian Federation, 48009, 1521.07
+Russian Federation, 46817, 1592.75
+Russian Federation, 49891, 1809.6
+Djibouti, 29585, 1445.37
+Djibouti, 15822, 1201.82
+Djibouti, 8370, 1487.71
+Djibouti, 5562, 553.79
+Djibouti, 3822, 54.01
+Djibouti, 233, 1140.77
+Djibouti, 6449, 1597.26
+Djibouti, 6199, 620.21
+Djibouti, 13818, 1073.04
+Djibouti, 10321, 1126.4
+Djibouti, 9972, 1971.33
+Djibouti, 15542, 1162.87
+Djibouti, 21139, 376.73
+Djibouti, 19032, 1728.46
+Djibouti, 18371, 282.18
+Djibouti, 17079, 1538.49
+Djibouti, 19853, 1744.64
+Djibouti, 28429, 932.64
+Djibouti, 27857, 1130.58
+Djibouti, 24175, 1462.79
+Djibouti, 29272, 1166.31
+Djibouti, 37616, 473.7
+Djibouti, 35231, 53.91
+Djibouti, 30414, 867.64
+Djibouti, 30242, 1615.99
+Djibouti, 29596, 791.68
+Djibouti, 34006, 971.5
+Djibouti, 36257, 1661.23
+Djibouti, 36174, 1658.98
+Djibouti, 35816, 870.4
+Djibouti, 37560, 437.98
+Djibouti, 46519, 1692.25
+Djibouti, 40328, 1426.2
+Djibouti, 39752, 1564.23
+Djibouti, 37722, 569.73
+Djibouti, 45060, 690.78
+Djibouti, 48018, 168.14
+Djibouti, 47598, 852.58
+Djibouti, 47011, 1759.86
+Djibouti, 48869, 372.36
+Ethiopia, 23448, 1106.68
+Ethiopia, 12926, 566.98
+Ethiopia, 2558, 599.13
+Ethiopia, 901, 739.71
+Ethiopia, 696, 506.73
+Ethiopia, 694, 623.58
+Ethiopia, 2042, 1600.47
+Ethiopia, 1451, 936.94
+Ethiopia, 11692, 906.22
+Ethiopia, 8654, 338.56
+Ethiopia, 7798, 827.36
+Ethiopia, 11989, 1741.19
+Ethiopia, 16476, 1729.05
+Ethiopia, 14975, 1606.61
+Ethiopia, 13906, 471.72
+Ethiopia, 13280, 189.96
+Ethiopia, 16335, 969.04
+Ethiopia, 19895, 717.47
+Ethiopia, 19030, 280.32
+Ethiopia, 18627, 102.28
+Ethiopia, 21612, 1906.12
+Ethiopia, 37518, 946.88
+Ethiopia, 33411, 1494.92
+Ethiopia, 29550, 1734.72
+Ethiopia, 27785, 936.19
+Ethiopia, 27269, 1118.42
+Ethiopia, 30601, 1870.21
+Ethiopia, 36397, 1555.93
+Ethiopia, 35100, 1829.36
+Ethiopia, 33872, 679.95
+Ethiopia, 36711, 1756.83
+Ethiopia, 43818, 1759.32
+Ethiopia, 41684, 231.52
+Ethiopia, 37776, 1439.56
+Ethiopia, 37624, 514.49
+Ethiopia, 42158, 879.09
+Ethiopia, 49248, 103.93
+Ethiopia, 48726, 665.58
+Ethiopia, 47762, 175.62
+Ethiopia, 49291, 850.47
+Eswatini, 32373, 632.48
+Eswatini, 17170, 1647.27
+Eswatini, 13807, 832.11
+Eswatini, 4138, 1007.13
+Eswatini, 3650, 367.33
+Eswatini, 1733, 807.54
+Eswatini, 12925, 920.97
+Eswatini, 9258, 1758.17
+Eswatini, 15259, 1565.42
+Eswatini, 14224, 1172.02
+Eswatini, 14154, 1020.0
+Eswatini, 17156, 979.61
+Eswatini, 24218, 330.38
+Eswatini, 23154, 1592.71
+Eswatini, 21384, 1883.76
+Eswatini, 19968, 565.25
+Eswatini, 23821, 684.75
+Eswatini, 27433, 1689.45
+Eswatini, 26898, 460.37
+Eswatini, 24666, 439.91
+Eswatini, 28887, 1800.68
+Eswatini, 40421, 1039.66
+Eswatini, 36623, 1035.91
+Eswatini, 35273, 146.07
+Eswatini, 34624, 179.31
+Eswatini, 34117, 1570.61
+Eswatini, 35619, 1211.83
+Eswatini, 39473, 1745.27
+Eswatini, 39401, 569.87
+Eswatini, 37569, 464.73
+Eswatini, 39683, 1940.72
+Eswatini, 44367, 212.79
+Eswatini, 43291, 829.26
+Eswatini, 43069, 411.73
+Eswatini, 43044, 664.54
+Eswatini, 44077, 1151.42
+Eswatini, 49191, 413.74
+Eswatini, 48333, 1872.85
+Eswatini, 44925, 1572.28
+Eswatini, 49648, 1381.82
+Slovakia, 21116, 1799.29
+Slovakia, 12997, 356.96
+Slovakia, 8707, 1437.82
+Slovakia, 5648, 1358.11
+Slovakia, 5253, 1317.67
+Slovakia, 2006, 1625.95
+Slovakia, 8691, 878.05
+Slovakia, 6609, 1796.51
+Slovakia, 9827, 201.97
+Slovakia, 9771, 1182.52
+Slovakia, 8721, 280.33
+Slovakia, 12604, 1605.03
+Slovakia, 15845, 1893.57
+Slovakia, 15010, 1719.58
+Slovakia, 14551, 1115.9
+Slovakia, 13639, 1146.5
+Slovakia, 15813, 379.12
+Slovakia, 18739, 851.08
+Slovakia, 17365, 867.35
+Slovakia, 16848, 1132.03
+Slovakia, 18802, 1592.66
+Slovakia, 35785, 1675.32
+Slovakia, 28716, 664.28
+Slovakia, 25719, 590.23
+Slovakia, 24640, 1215.26
+Slovakia, 23482, 1588.21
+Slovakia, 27317, 1565.74
+Slovakia, 33615, 810.75
+Slovakia, 32453, 938.31
+Slovakia, 32360, 1601.36
+Slovakia, 33871, 630.65
+Slovakia, 45674, 1221.25
+Slovakia, 40839, 1375.68
+Slovakia, 40533, 1802.63
+Slovakia, 38228, 826.44
+Slovakia, 43398, 722.54
+Slovakia, 48043, 1402.87
+Slovakia, 47693, 489.37
+Slovakia, 45736, 870.76
+Slovakia, 48274, 1246.01
+Aruba, 30217, 1795.37
+Aruba, 12752, 41.95
+Aruba, 6378, 806.03
+Aruba, 4796, 940.47
+Aruba, 3091, 1850.71
+Aruba, 1071, 851.29
+Aruba, 6356, 1610.51
+Aruba, 5941, 705.97
+Aruba, 12374, 73.76
+Aruba, 12003, 1031.05
+Aruba, 7278, 801.51
+Aruba, 12573, 708.12
+Aruba, 18262, 1573.63
+Aruba, 14770, 186.09
+Aruba, 14690, 1936.52
+Aruba, 14433, 102.23
+Aruba, 18007, 626.69
+Aruba, 27306, 1525.81
+Aruba, 21409, 205.0
+Aruba, 20921, 1278.27
+Aruba, 30129, 1523.37
+Aruba, 37854, 1641.05
+Aruba, 33682, 1602.47
+Aruba, 31483, 833.39
+Aruba, 31463, 1789.21
+Aruba, 31111, 1593.56
+Aruba, 31692, 1947.58
+Aruba, 36122, 1300.0
+Aruba, 34337, 1544.59
+Aruba, 33860, 843.47
+Aruba, 36332, 71.08
+Aruba, 43745, 812.86
+Aruba, 41750, 1916.46
+Aruba, 41480, 1466.33
+Aruba, 40616, 1420.02
+Aruba, 41988, 666.51
+Aruba, 46561, 790.55
+Aruba, 44820, 469.27
+Aruba, 44006, 683.85
+Aruba, 47414, 1153.28
+Nepal, 20872, 327.13
+Nepal, 9845, 355.98
+Nepal, 6968, 943.2
+Nepal, 4412, 1059.83
+Nepal, 286, 1080.56
+Nepal, 148, 475.52
+Nepal, 6836, 772.83
+Nepal, 5066, 1884.14
+Nepal, 9094, 163.64
+Nepal, 8799, 1470.93
+Nepal, 8588, 25.55
+Nepal, 9754, 1840.51
+Nepal, 14195, 492.57
+Nepal, 12415, 1772.23
+Nepal, 10727, 726.12
+Nepal, 9847, 1554.64
+Nepal, 13835, 181.96
+Nepal, 18627, 1876.45
+Nepal, 16970, 240.83
+Nepal, 16924, 1437.4
+Nepal, 19529, 443.0
+Nepal, 40321, 1428.11
+Nepal, 27260, 149.6
+Nepal, 22584, 1432.76
+Nepal, 22521, 772.02
+Nepal, 22182, 66.46
+Nepal, 26541, 199.64
+Nepal, 31626, 1990.33
+Nepal, 29680, 138.26
+Nepal, 29024, 1646.42
+Nepal, 35790, 1833.65
+Nepal, 44752, 1022.22
+Nepal, 43789, 1553.67
+Nepal, 43146, 338.66
+Nepal, 41221, 312.3
+Nepal, 43904, 316.34
+Nepal, 45698, 919.85
+Nepal, 45381, 197.97
+Nepal, 44815, 749.85
+Nepal, 47350, 1214.72
+India, 21396, 431.16
+India, 9841, 624.89
+India, 1974, 862.61
+India, 1171, 755.99
+India, 313, 369.02
+India, 231, 879.67
+India, 1847, 772.33
+India, 1836, 1847.3
+India, 5339, 930.26
+India, 3279, 609.72
+India, 3137, 324.59
+India, 9744, 1115.84
+India, 15243, 1124.06
+India, 14027, 1086.58
+India, 10757, 1791.66
+India, 10132, 799.76
+India, 14981, 1545.05
+India, 18105, 1933.68
+India, 17905, 1832.92
+India, 15270, 1401.84
+India, 20042, 711.79
+India, 29850, 1109.23
+India, 23679, 1744.06
+India, 23535, 21.89
+India, 23327, 747.52
+India, 21990, 1308.79
+India, 23654, 1025.25
+India, 26993, 38.54
+India, 26048, 1095.93
+India, 25535, 1064.54
+India, 29394, 921.01
+India, 39795, 396.0
+India, 38312, 736.09
+India, 37667, 712.15
+India, 34197, 1729.82
+India, 38424, 135.83
+India, 43700, 1802.85
+India, 41503, 1726.28
+India, 40699, 317.77
+India, 45049, 468.41
+Gambia, 28543, 1734.2
+Gambia, 12170, 1145.63
+Gambia, 10859, 506.61
+Gambia, 5404, 633.53
+Gambia, 3807, 1760.19
+Gambia, 376, 482.8
+Gambia, 8489, 642.19
+Gambia, 6079, 196.03
+Gambia, 11985, 149.95
+Gambia, 11566, 459.68
+Gambia, 11365, 542.04
+Gambia, 12140, 11.3
+Gambia, 20185, 313.73
+Gambia, 19463, 41.64
+Gambia, 18721, 839.77
+Gambia, 15307, 1583.56
+Gambia, 20142, 1962.82
+Gambia, 24584, 1650.38
+Gambia, 22772, 1700.3
+Gambia, 22428, 187.15
+Gambia, 26636, 730.95
+Gambia, 40896, 638.37
+Gambia, 31188, 1495.37
+Gambia, 30307, 172.75
+Gambia, 28891, 436.74
+Gambia, 28544, 978.04
+Gambia, 30787, 503.45
+Gambia, 38384, 985.0
+Gambia, 32852, 1435.5
+Gambia, 32707, 1648.98
+Gambia, 39407, 1382.06
+Gambia, 43253, 18.94
+Gambia, 42582, 904.01
+Gambia, 42379, 242.48
+Gambia, 40957, 505.4
+Gambia, 43239, 205.69
+Gambia, 44466, 638.67
+Gambia, 43826, 223.39
+Gambia, 43314, 1181.38
+Gambia, 49685, 1485.67
+Israel, 21543, 132.8
+Israel, 7803, 834.01
+Israel, 5236, 745.57
+Israel, 3931, 600.83
+Israel, 2930, 1959.67
+Israel, 1257, 32.37
+Israel, 4660, 1305.56
+Israel, 4494, 1298.48
+Israel, 6987, 1909.88
+Israel, 6771, 975.92
+Israel, 5839, 983.54
+Israel, 7519, 826.76
+Israel, 18168, 487.44
+Israel, 12737, 1695.27
+Israel, 11706, 1350.11
+Israel, 8156, 678.71
+Israel, 15909, 694.38
+Israel, 19306, 1168.45
+Israel, 18480, 459.29
+Israel, 18201, 1243.04
+Israel, 20857, 959.24
+Israel, 36430, 597.15
+Israel, 30463, 1852.44
+Israel, 27699, 336.18
+Israel, 23045, 458.77
+Israel, 23022, 331.58
+Israel, 30401, 343.18
+Israel, 32828, 1198.31
+Israel, 31367, 1763.98
+Israel, 30943, 1947.32
+Israel, 34034, 1441.4
+Israel, 47066, 1055.59
+Israel, 44038, 350.61
+Israel, 41360, 789.03
+Israel, 39819, 54.75
+Israel, 44280, 132.2
+Israel, 48826, 1041.54
+Israel, 48357, 362.73
+Israel, 47777, 1226.26
+Israel, 49992, 528.96
+Kosovo, 17870, 1180.79
+Kosovo, 7899, 1969.9
+Kosovo, 5247, 1439.46
+Kosovo, 4225, 1978.44
+Kosovo, 3793, 1373.21
+Kosovo, 1863, 1912.19
+Kosovo, 4551, 1302.35
+Kosovo, 4276, 1148.6
+Kosovo, 7179, 22.42
+Kosovo, 7114, 1214.68
+Kosovo, 6247, 1652.08
+Kosovo, 7531, 247.1
+Kosovo, 13185, 507.0
+Kosovo, 11321, 239.02
+Kosovo, 10964, 776.77
+Kosovo, 8045, 223.25
+Kosovo, 11680, 25.23
+Kosovo, 14759, 1095.08
+Kosovo, 13904, 224.07
+Kosovo, 13884, 182.51
+Kosovo, 16268, 822.64
+Kosovo, 32735, 251.39
+Kosovo, 27609, 296.95
+Kosovo, 25158, 1493.52
+Kosovo, 25029, 838.98
+Kosovo, 22964, 1548.03
+Kosovo, 27253, 1345.22
+Kosovo, 30454, 340.9
+Kosovo, 29573, 1196.62
+Kosovo, 28481, 542.98
+Kosovo, 31778, 1220.46
+Kosovo, 34966, 476.61
+Kosovo, 33713, 962.95
+Kosovo, 33602, 684.46
+Kosovo, 33128, 924.27
+Kosovo, 33876, 965.35
+Kosovo, 39183, 683.87
+Kosovo, 38599, 1038.19
+Kosovo, 35588, 425.82
+Kosovo, 47925, 362.75
+Burkina, 30663, 1594.01
+Burkina, 19277, 628.87
+Burkina, 10348, 1147.01
+Burkina, 6033, 374.83
+Burkina, 5170, 1600.65
+Burkina, 267, 1679.67
+Burkina, 10338, 1107.2
+Burkina, 6180, 1065.88
+Burkina, 18399, 771.1
+Burkina, 13587, 1599.48
+Burkina, 12741, 125.97
+Burkina, 19252, 1841.85
+Burkina, 24886, 811.15
+Burkina, 20896, 212.85
+Burkina, 20793, 544.03
+Burkina, 20734, 60.99
+Burkina, 23425, 1803.36
+Burkina, 29629, 48.55
+Burkina, 26018, 1378.49
+Burkina, 25768, 441.73
+Burkina, 30284, 176.82
+Burkina, 41361, 174.8
+Burkina, 35991, 99.5
+Burkina, 31865, 1734.43
+Burkina, 31610, 1677.99
+Burkina, 30711, 1427.38
+Burkina, 35487, 1612.88
+Burkina, 40323, 135.79
+Burkina, 37908, 828.46
+Burkina, 37708, 1429.81
+Burkina, 40566, 940.49
+Burkina, 45295, 1483.88
+Burkina, 43976, 356.16
+Burkina, 43338, 744.33
+Burkina, 43284, 175.52
+Burkina, 45178, 1968.12
+Burkina, 47973, 1459.28
+Burkina, 46468, 1516.28
+Burkina, 45667, 455.6
+Burkina, 49304, 1776.86
+Barbados, 30691, 716.93
+Barbados, 14844, 1773.44
+Barbados, 6067, 222.66
+Barbados, 2781, 1386.09
+Barbados, 2714, 416.37
+Barbados, 1351, 1471.23
+Barbados, 5690, 829.51
+Barbados, 4467, 1311.66
+Barbados, 9730, 1503.56
+Barbados, 7244, 536.39
+Barbados, 6264, 1765.68
+Barbados, 14204, 286.99
+Barbados, 18660, 1920.08
+Barbados, 17363, 255.57
+Barbados, 16624, 1778.46
+Barbados, 14967, 727.72
+Barbados, 17594, 1094.54
+Barbados, 28503, 1408.67
+Barbados, 26478, 842.67
+Barbados, 22553, 1575.62
+Barbados, 29574, 747.14
+Barbados, 38448, 951.06
+Barbados, 36029, 1275.49
+Barbados, 33885, 1991.46
+Barbados, 31907, 1811.64
+Barbados, 30789, 1824.21
+Barbados, 34006, 99.78
+Barbados, 36816, 1225.77
+Barbados, 36698, 318.64
+Barbados, 36611, 1578.45
+Barbados, 36937, 869.47
+Barbados, 43253, 532.6
+Barbados, 41288, 338.7
+Barbados, 39590, 14.91
+Barbados, 39149, 1852.76
+Barbados, 41867, 867.79
+Barbados, 49665, 1752.06
+Barbados, 46994, 1711.14
+Barbados, 46656, 359.48
+Barbados, 49799, 585.47
+Algeria, 26679, 1680.04
+Algeria, 14361, 543.48
+Algeria, 8138, 1693.47
+Algeria, 5052, 979.09
+Algeria, 1099, 1978.06
+Algeria, 528, 1296.29
+Algeria, 6496, 1273.2
+Algeria, 5161, 640.64
+Algeria, 9245, 675.38
+Algeria, 8774, 846.88
+Algeria, 8269, 790.06
+Algeria, 9477, 869.57
+Algeria, 20335, 1111.65
+Algeria, 16408, 180.4
+Algeria, 15656, 1142.35
+Algeria, 15348, 976.9
+Algeria, 16589, 333.8
+Algeria, 26325, 126.12
+Algeria, 25164, 554.03
+Algeria, 20466, 1167.04
+Algeria, 26401, 1770.91
+Algeria, 41194, 569.38
+Algeria, 36546, 189.62
+Algeria, 29601, 1056.16
+Algeria, 29268, 425.93
+Algeria, 27652, 1849.86
+Algeria, 32220, 1782.96
+Algeria, 40080, 1886.45
+Algeria, 39973, 1575.67
+Algeria, 38566, 1272.72
+Algeria, 40291, 1419.76
+Algeria, 47146, 712.49
+Algeria, 43585, 1760.11
+Algeria, 42298, 1621.77
+Algeria, 42075, 1768.39
+Algeria, 45236, 1411.13
+Algeria, 47889, 1900.01
+Algeria, 47428, 877.3
+Algeria, 47215, 1817.27
+Algeria, 48695, 1348.46
+Afghanistan, 23716, 1525.46
+Afghanistan, 11031, 1384.8
+Afghanistan, 8191, 1838.93
+Afghanistan, 5543, 405.53
+Afghanistan, 4196, 975.98
+Afghanistan, 900, 385.17
+Afghanistan, 5979, 1278.21
+Afghanistan, 5619, 538.91
+Afghanistan, 10428, 684.14
+Afghanistan, 9348, 1082.97
+Afghanistan, 8837, 1662.65
+Afghanistan, 10706, 610.04
+Afghanistan, 15829, 149.82
+Afghanistan, 15629, 40.14
+Afghanistan, 14281, 106.5
+Afghanistan, 12189, 798.98
+Afghanistan, 15658, 1445.94
+Afghanistan, 18684, 1853.03
+Afghanistan, 18303, 971.84
+Afghanistan, 16759, 1273.05
+Afghanistan, 21256, 155.84
+Afghanistan, 35549, 524.23
+Afghanistan, 28475, 1097.57
+Afghanistan, 24551, 879.24
+Afghanistan, 24467, 1240.29
+Afghanistan, 24002, 1260.13
+Afghanistan, 26313, 400.87
+Afghanistan, 32912, 782.53
+Afghanistan, 31399, 1152.25
+Afghanistan, 28670, 372.37
+Afghanistan, 33975, 1144.66
+Afghanistan, 41951, 935.31
+Afghanistan, 39067, 536.37
+Afghanistan, 38783, 863.29
+Afghanistan, 38715, 1819.66
+Afghanistan, 41312, 1048.97
+Afghanistan, 49185, 1632.34
+Afghanistan, 46776, 424.39
+Afghanistan, 43138, 767.05
+Afghanistan, 49281, 37.8
+Albania, 22940, 1342.69
+Albania, 12503, 1182.07
+Albania, 8789, 896.57
+Albania, 5756, 382.41
+Albania, 5572, 1940.94
+Albania, 4196, 967.84
+Albania, 6013, 655.03
+Albania, 5764, 1668.58
+Albania, 10265, 1627.93
+Albania, 9099, 1243.63
+Albania, 8798, 339.58
+Albania, 11023, 1511.36
+Albania, 18689, 762.55
+Albania, 16724, 647.26
+Albania, 16074, 560.16
+Albania, 15062, 1913.7
+Albania, 18007, 715.04
+Albania, 19882, 956.09
+Albania, 19546, 728.93
+Albania, 19259, 737.06
+Albania, 20248, 1421.99
+Albania, 42131, 729.65
+Albania, 30828, 1311.18
+Albania, 27712, 1453.8
+Albania, 27509, 132.69
+Albania, 23165, 759.62
+Albania, 30816, 60.31
+Albania, 37833, 600.79
+Albania, 35706, 316.04
+Albania, 35568, 328.93
+Albania, 41979, 1240.23
+Albania, 45162, 205.56
+Albania, 43532, 990.28
+Albania, 43367, 1798.09
+Albania, 43067, 1151.02
+Albania, 44374, 1305.21
+Albania, 47232, 1288.93
+Albania, 46208, 1492.73
+Albania, 46175, 152.27
+Albania, 47278, 1108.82
+San Marino, 27297, 576.09
+San Marino, 12322, 1770.98
+San Marino, 7013, 1572.49
+San Marino, 4231, 551.11
+San Marino, 3812, 1716.43
+San Marino, 2349, 1155.29
+San Marino, 5622, 789.68
+San Marino, 5472, 212.78
+San Marino, 10536, 161.89
+San Marino, 8651, 1695.8
+San Marino, 8012, 1068.35
+San Marino, 10898, 1500.51
+San Marino, 16551, 250.98
+San Marino, 15562, 1258.02
+San Marino, 13989, 1893.18
+San Marino, 12954, 411.77
+San Marino, 16008, 1124.85
+San Marino, 20168, 1049.65
+San Marino, 19661, 1662.02
+San Marino, 17241, 61.42
+San Marino, 24423, 707.29
+San Marino, 43171, 701.52
+San Marino, 34301, 1241.93
+San Marino, 31680, 1912.95
+San Marino, 31618, 233.23
+San Marino, 28210, 1104.68
+San Marino, 33364, 1563.43
+San Marino, 40323, 382.26
+San Marino, 39690, 1413.32
+San Marino, 38727, 1090.29
+San Marino, 42643, 911.45
+San Marino, 47488, 374.38
+San Marino, 46093, 287.91
+San Marino, 45829, 544.74
+San Marino, 45718, 444.31
+San Marino, 47139, 638.72
+San Marino, 48452, 466.19
+San Marino, 48138, 607.47
+San Marino, 47612, 519.96
+San Marino, 49509, 1405.64
+Costa Rica, 20382, 990.18
+Costa Rica, 10456, 1910.24
+Costa Rica, 7767, 1000.34
+Costa Rica, 3270, 103.42
+Costa Rica, 1690, 1094.86
+Costa Rica, 650, 1851.75
+Costa Rica, 5784, 1135.76
+Costa Rica, 5076, 501.08
+Costa Rica, 8996, 1459.0
+Costa Rica, 8477, 1174.89
+Costa Rica, 8273, 1575.86
+Costa Rica, 9155, 791.28
+Costa Rica, 14369, 531.21
+Costa Rica, 12171, 1019.61
+Costa Rica, 11758, 1004.97
+Costa Rica, 11282, 1961.02
+Costa Rica, 12580, 267.85
+Costa Rica, 18592, 1411.02
+Costa Rica, 18498, 668.04
+Costa Rica, 18481, 1455.38
+Costa Rica, 19083, 1145.72
+Costa Rica, 35296, 252.06
+Costa Rica, 26318, 1395.92
+Costa Rica, 23515, 1024.3
+Costa Rica, 23265, 560.33
+Costa Rica, 21313, 1292.89
+Costa Rica, 26016, 255.59
+Costa Rica, 34174, 194.55
+Costa Rica, 30037, 1108.08
+Costa Rica, 26726, 693.06
+Costa Rica, 34576, 1687.8
+Costa Rica, 44312, 1216.85
+Costa Rica, 37885, 241.01
+Costa Rica, 36652, 364.53
+Costa Rica, 36383, 1848.46
+Costa Rica, 39932, 355.96
+Costa Rica, 45524, 1542.36
+Costa Rica, 45403, 221.03
+Costa Rica, 44577, 975.75
+Costa Rica, 46204, 1580.17
+Marshall Islands, 29782, 1912.69
+Marshall Islands, 14082, 1486.07
+Marshall Islands, 9294, 66.14
+Marshall Islands, 1462, 1647.28
+Marshall Islands, 618, 151.2
+Marshall Islands, 320, 435.52
+Marshall Islands, 8899, 1546.94
+Marshall Islands, 4953, 1374.11
+Marshall Islands, 13463, 732.25
+Marshall Islands, 10017, 1893.31
+Marshall Islands, 9868, 1962.08
+Marshall Islands, 13974, 83.76
+Marshall Islands, 19899, 1224.6
+Marshall Islands, 17218, 1222.83
+Marshall Islands, 16304, 1372.16
+Marshall Islands, 14866, 1102.98
+Marshall Islands, 19402, 707.46
+Marshall Islands, 22190, 1508.83
+Marshall Islands, 20909, 1520.1
+Marshall Islands, 20038, 1111.45
+Marshall Islands, 24948, 1506.89
+Marshall Islands, 42601, 443.22
+Marshall Islands, 37641, 433.61
+Marshall Islands, 31173, 845.26
+Marshall Islands, 30871, 472.24
+Marshall Islands, 30500, 1273.76
+Marshall Islands, 36727, 457.47
+Marshall Islands, 41252, 1200.33
+Marshall Islands, 40731, 1375.18
+Marshall Islands, 39299, 594.86
+Marshall Islands, 41412, 915.62
+Marshall Islands, 45810, 1636.26
+Marshall Islands, 45202, 676.82
+Marshall Islands, 44703, 1325.28
+Marshall Islands, 43109, 1128.46
+Marshall Islands, 45694, 827.96
+Marshall Islands, 49254, 1802.86
+Marshall Islands, 46997, 22.71
+Marshall Islands, 46237, 1366.2
+Marshall Islands, 49324, 701.7
+Iceland, 25918, 195.37
+Iceland, 7925, 337.33
+Iceland, 4013, 1672.95
+Iceland, 1264, 1523.27
+Iceland, 1224, 264.41
+Iceland, 197, 74.03
+Iceland, 3427, 293.16
+Iceland, 1814, 182.51
+Iceland, 5770, 1817.03
+Iceland, 4898, 909.59
+Iceland, 4640, 1464.66
+Iceland, 7553, 1682.7
+Iceland, 14030, 1242.64
+Iceland, 10229, 1843.23
+Iceland, 9766, 1688.92
+Iceland, 9243, 931.01
+Iceland, 13576, 1758.84
+Iceland, 21514, 1134.57
+Iceland, 16213, 1980.55
+Iceland, 14812, 1211.02
+Iceland, 24035, 1145.8
+Iceland, 36011, 878.43
+Iceland, 32964, 676.45
+Iceland, 28832, 1186.89
+Iceland, 28262, 1090.91
+Iceland, 27693, 917.3
+Iceland, 30598, 956.47
+Iceland, 35294, 1139.26
+Iceland, 33888, 1926.65
+Iceland, 33448, 869.03
+Iceland, 35799, 1159.92
+Iceland, 43287, 1673.99
+Iceland, 41249, 521.01
+Iceland, 38237, 1085.06
+Iceland, 36386, 1939.44
+Iceland, 41938, 1746.59
+Iceland, 47482, 1665.77
+Iceland, 44626, 1006.83
+Iceland, 43549, 896.12
+Iceland, 49031, 1682.8
+Kuwait, 25954, 808.91
+Kuwait, 12265, 1244.91
+Kuwait, 6783, 437.84
+Kuwait, 4633, 1798.89
+Kuwait, 3296, 1448.88
+Kuwait, 364, 1301.84
+Kuwait, 5658, 1726.91
+Kuwait, 5566, 258.91
+Kuwait, 10431, 1660.15
+Kuwait, 9972, 321.46
+Kuwait, 7909, 1814.14
+Kuwait, 11291, 1778.9
+Kuwait, 18512, 1956.12
+Kuwait, 15522, 140.82
+Kuwait, 12990, 1204.66
+Kuwait, 12648, 686.95
+Kuwait, 18225, 141.01
+Kuwait, 23650, 1362.91
+Kuwait, 21064, 406.35
+Kuwait, 18884, 574.88
+Kuwait, 24802, 438.21
+Kuwait, 39904, 308.35
+Kuwait, 31347, 966.37
+Kuwait, 27185, 1880.06
+Kuwait, 27034, 1463.68
+Kuwait, 26537, 603.73
+Kuwait, 29335, 714.68
+Kuwait, 36028, 459.95
+Kuwait, 34420, 855.22
+Kuwait, 33575, 674.98
+Kuwait, 39286, 110.23
+Kuwait, 45855, 548.42
+Kuwait, 43984, 1676.76
+Kuwait, 43339, 1510.27
+Kuwait, 41430, 573.28
+Kuwait, 44650, 55.66
+Kuwait, 49115, 1496.07
+Kuwait, 48483, 132.56
+Kuwait, 48311, 1682.7
+Kuwait, 49873, 700.22
+Japan, 31728, 693.75
+Japan, 10558, 1220.68
+Japan, 3524, 1991.74
+Japan, 2590, 1335.95
+Japan, 1712, 1828.07
+Japan, 1615, 1447.84
+Japan, 3423, 1116.16
+Japan, 3349, 1473.73
+Japan, 6389, 249.24
+Japan, 4796, 656.97
+Japan, 3711, 309.52
+Japan, 10413, 1160.87
+Japan, 17223, 785.07
+Japan, 13468, 1381.34
+Japan, 12774, 1543.94
+Japan, 12602, 904.83
+Japan, 14543, 211.37
+Japan, 26056, 1566.09
+Japan, 25905, 1407.46
+Japan, 25393, 453.1
+Japan, 28129, 890.19
+Japan, 40499, 1486.14
+Japan, 36371, 1963.56
+Japan, 35089, 412.86
+Japan, 34709, 338.43
+Japan, 34693, 87.13
+Japan, 35692, 1670.49
+Japan, 37749, 745.15
+Japan, 37638, 766.24
+Japan, 36723, 841.03
+Japan, 39635, 553.07
+Japan, 43596, 943.67
+Japan, 42589, 524.72
+Japan, 41471, 1086.27
+Japan, 41226, 1784.21
+Japan, 43488, 1196.0
+Japan, 46853, 1752.2
+Japan, 46165, 732.85
+Japan, 44058, 60.16
+Japan, 47814, 1647.48
+Canada, 23757, 1537.15
+Canada, 12375, 1301.23
+Canada, 6511, 985.53
+Canada, 3121, 670.79
+Canada, 1625, 1479.72
+Canada, 1130, 653.95
+Canada, 5997, 1462.18
+Canada, 5015, 447.0
+Canada, 11052, 1949.35
+Canada, 9588, 1133.97
+Canada, 8326, 1290.33
+Canada, 11589, 1106.07
+Canada, 14626, 392.38
+Canada, 13767, 30.2
+Canada, 13344, 527.47
+Canada, 13247, 728.73
+Canada, 13973, 24.74
+Canada, 21834, 771.89
+Canada, 19997, 982.52
+Canada, 17496, 1283.46
+Canada, 21898, 1599.66
+Canada, 38611, 1859.8
+Canada, 28374, 1869.36
+Canada, 27211, 600.21
+Canada, 25592, 1642.66
+Canada, 24874, 1103.76
+Canada, 27642, 589.18
+Canada, 30812, 1224.73
+Canada, 30554, 1268.06
+Canada, 28766, 255.94
+Canada, 36893, 1857.04
+Canada, 44314, 1868.59
+Canada, 40516, 1160.14
+Canada, 40200, 745.73
+Canada, 39465, 1309.86
+Canada, 42939, 1257.87
+Canada, 47940, 1087.87
+Canada, 46476, 323.71
+Canada, 45855, 512.05
+Canada, 49576, 781.45
+Oman, 26966, 464.83
+Oman, 11016, 1670.28
+Oman, 8232, 1698.15
+Oman, 3717, 1218.33
+Oman, 2973, 584.58
+Oman, 121, 465.02
+Oman, 5715, 775.43
+Oman, 4528, 1379.93
+Oman, 9650, 1825.84
+Oman, 8589, 1503.71
+Oman, 8376, 506.04
+Oman, 10080, 590.37
+Oman, 23049, 1950.47
+Oman, 17825, 330.87
+Oman, 14635, 822.66
+Oman, 13503, 1367.24
+Oman, 20537, 470.93
+Oman, 25440, 1041.33
+Oman, 25200, 657.74
+Oman, 23152, 1956.64
+Oman, 25993, 1663.26
+Oman, 36606, 817.34
+Oman, 29516, 1275.43
+Oman, 28208, 1465.19
+Oman, 27368, 1343.33
+Oman, 27213, 822.76
+Oman, 29236, 839.59
+Oman, 35230, 113.51
+Oman, 33649, 469.16
+Oman, 30131, 691.79
+Oman, 35245, 679.35
+Oman, 39245, 1447.78
+Oman, 37795, 1165.88
+Oman, 37566, 151.68
+Oman, 36927, 385.98
+Oman, 38721, 576.09
+Oman, 47872, 110.7
+Oman, 41597, 116.78
+Oman, 40460, 391.49
+Oman, 49461, 1961.98
+Liberia, 22437, 876.0
+Liberia, 8663, 1333.77
+Liberia, 6107, 685.62
+Liberia, 3477, 1096.63
+Liberia, 2082, 30.74
+Liberia, 237, 1472.92
+Liberia, 5323, 54.62
+Liberia, 3907, 151.09
+Liberia, 7814, 44.17
+Liberia, 7638, 1195.94
+Liberia, 6482, 903.44
+Liberia, 8570, 472.67
+Liberia, 12522, 1141.79
+Liberia, 9533, 1399.67
+Liberia, 9241, 1302.76
+Liberia, 9023, 1584.04
+Liberia, 10588, 1777.8
+Liberia, 14871, 324.84
+Liberia, 14160, 301.83
+Liberia, 13911, 1155.55
+Liberia, 21768, 1027.3
+Liberia, 32484, 1976.96
+Liberia, 26442, 712.98
+Liberia, 25845, 784.99
+Liberia, 23468, 1392.58
+Liberia, 23180, 1435.82
+Liberia, 26416, 816.22
+Liberia, 31146, 1217.53
+Liberia, 28180, 1342.04
+Liberia, 26851, 1297.49
+Liberia, 31675, 1890.94
+Liberia, 40819, 860.69
+Liberia, 38003, 1245.29
+Liberia, 36197, 355.66
+Liberia, 32692, 892.84
+Liberia, 38406, 1471.15
+Liberia, 47090, 1389.53
+Liberia, 46277, 250.72
+Liberia, 44767, 962.58
+Liberia, 48582, 696.4
+Vietnam, 28884, 1314.44
+Vietnam, 19287, 350.19
+Vietnam, 9605, 1658.01
+Vietnam, 5349, 603.87
+Vietnam, 4737, 1845.45
+Vietnam, 1548, 317.1
+Vietnam, 9004, 748.15
+Vietnam, 5692, 662.04
+Vietnam, 15466, 898.06
+Vietnam, 14708, 240.9
+Vietnam, 13026, 517.86
+Vietnam, 18159, 905.91
+Vietnam, 23595, 962.43
+Vietnam, 20799, 559.04
+Vietnam, 20481, 16.01
+Vietnam, 19316, 462.99
+Vietnam, 22456, 1491.75
+Vietnam, 27094, 182.81
+Vietnam, 26484, 404.9
+Vietnam, 26245, 13.66
+Vietnam, 27434, 1480.82
+Vietnam, 38017, 1609.35
+Vietnam, 35075, 955.48
+Vietnam, 30213, 200.49
+Vietnam, 30154, 1363.44
+Vietnam, 30069, 904.63
+Vietnam, 33305, 992.35
+Vietnam, 36218, 627.47
+Vietnam, 35946, 626.84
+Vietnam, 35482, 1245.64
+Vietnam, 37564, 54.19
+Vietnam, 42345, 824.79
+Vietnam, 41876, 1048.64
+Vietnam, 41726, 115.75
+Vietnam, 38974, 551.76
+Vietnam, 42149, 479.74
+Vietnam, 47430, 1912.97
+Vietnam, 47174, 1466.14
+Vietnam, 42987, 34.99
+Vietnam, 49836, 1144.42
+Taiwan, 29537, 395.6
+Taiwan, 17075, 250.05
+Taiwan, 11697, 371.8
+Taiwan, 6604, 151.42
+Taiwan, 1798, 238.61
+Taiwan, 1701, 723.55
+Taiwan, 9396, 801.4
+Taiwan, 7592, 648.64
+Taiwan, 15463, 1862.78
+Taiwan, 15050, 1687.78
+Taiwan, 14169, 241.84
+Taiwan, 15692, 383.78
+Taiwan, 22857, 316.46
+Taiwan, 18901, 1241.77
+Taiwan, 18890, 152.78
+Taiwan, 17234, 479.77
+Taiwan, 22402, 734.2
+Taiwan, 26715, 786.97
+Taiwan, 24658, 862.97
+Taiwan, 23388, 800.74
+Taiwan, 27207, 1305.08
+Taiwan, 38662, 810.45
+Taiwan, 35325, 1642.82
+Taiwan, 33003, 363.18
+Taiwan, 32941, 1681.18
+Taiwan, 29618, 235.32
+Taiwan, 33292, 591.3
+Taiwan, 37673, 1860.16
+Taiwan, 36646, 1557.9
+Taiwan, 35534, 1917.03
+Taiwan, 37699, 1563.19
+Taiwan, 44426, 775.2
+Taiwan, 43432, 351.45
+Taiwan, 40196, 1714.84
+Taiwan, 39851, 362.94
+Taiwan, 44061, 859.24
+Taiwan, 47677, 850.15
+Taiwan, 47257, 444.97
+Taiwan, 45931, 292.03
+Taiwan, 47917, 1735.55
+Bhutan, 25506, 1485.02
+Bhutan, 18354, 1964.78
+Bhutan, 12116, 1350.01
+Bhutan, 7852, 417.85
+Bhutan, 2787, 641.56
+Bhutan, 648, 966.11
+Bhutan, 11096, 1360.98
+Bhutan, 7991, 396.73
+Bhutan, 16584, 1673.47
+Bhutan, 15857, 1045.45
+Bhutan, 14661, 1344.23
+Bhutan, 16791, 643.49
+Bhutan, 22157, 196.28
+Bhutan, 21590, 1664.84
+Bhutan, 20711, 1757.7
+Bhutan, 19781, 1441.53
+Bhutan, 21649, 196.55
+Bhutan, 23989, 1559.51
+Bhutan, 23392, 1577.64
+Bhutan, 22949, 901.59
+Bhutan, 24154, 430.53
+Bhutan, 37005, 407.41
+Bhutan, 31974, 1317.09
+Bhutan, 28604, 597.25
+Bhutan, 27261, 1701.12
+Bhutan, 26680, 1038.97
+Bhutan, 29352, 1486.04
+Bhutan, 35952, 955.25
+Bhutan, 35807, 1538.42
+Bhutan, 33291, 1959.57
+Bhutan, 36850, 1864.66
+Bhutan, 45549, 1166.56
+Bhutan, 44832, 1460.19
+Bhutan, 44757, 1178.57
+Bhutan, 37126, 1392.87
+Bhutan, 44869, 1420.62
+Bhutan, 48120, 92.9
+Bhutan, 47741, 1897.53
+Bhutan, 47419, 190.15
+Bhutan, 48765, 1838.51
+Indonesia, 26073, 959.06
+Indonesia, 13136, 1553.32
+Indonesia, 6794, 278.96
+Indonesia, 2028, 587.08
+Indonesia, 1322, 486.36
+Indonesia, 1184, 1548.8
+Indonesia, 4009, 874.87
+Indonesia, 3185, 561.85
+Indonesia, 11376, 868.0
+Indonesia, 11048, 1538.77
+Indonesia, 6910, 658.82
+Indonesia, 13024, 1941.73
+Indonesia, 22512, 1970.51
+Indonesia, 19101, 609.73
+Indonesia, 16750, 292.07
+Indonesia, 13230, 405.37
+Indonesia, 22028, 1403.25
+Indonesia, 25697, 1219.94
+Indonesia, 25584, 1646.71
+Indonesia, 25441, 836.93
+Indonesia, 25906, 143.01
+Indonesia, 40307, 243.16
+Indonesia, 33770, 1309.56
+Indonesia, 29074, 1111.59
+Indonesia, 26832, 1025.42
+Indonesia, 26220, 248.62
+Indonesia, 33326, 1345.94
+Indonesia, 38244, 533.83
+Indonesia, 36835, 652.79
+Indonesia, 35552, 191.05
+Indonesia, 39269, 1793.67
+Indonesia, 46607, 1119.78
+Indonesia, 42096, 1037.61
+Indonesia, 41770, 1287.47
+Indonesia, 41740, 59.08
+Indonesia, 45260, 759.08
+Indonesia, 49264, 1097.05
+Indonesia, 48531, 1324.52
+Indonesia, 46960, 377.02
+Indonesia, 49571, 899.85
+Antigua & Deps, 30538, 1496.65
+Antigua & Deps, 12806, 1723.13
+Antigua & Deps, 6080, 590.06
+Antigua & Deps, 1259, 1223.35
+Antigua & Deps, 1233, 1398.56
+Antigua & Deps, 992, 1564.35
+Antigua & Deps, 4860, 272.35
+Antigua & Deps, 1385, 946.47
+Antigua & Deps, 12484, 931.25
+Antigua & Deps, 11376, 517.84
+Antigua & Deps, 10041, 1968.72
+Antigua & Deps, 12577, 1095.89
+Antigua & Deps, 21871, 604.15
+Antigua & Deps, 20710, 44.81
+Antigua & Deps, 18048, 813.73
+Antigua & Deps, 17181, 623.96
+Antigua & Deps, 21222, 986.67
+Antigua & Deps, 27382, 153.89
+Antigua & Deps, 26505, 1338.4
+Antigua & Deps, 22477, 1004.06
+Antigua & Deps, 29101, 1864.19
+Antigua & Deps, 35939, 1455.85
+Antigua & Deps, 33022, 1681.38
+Antigua & Deps, 31558, 740.98
+Antigua & Deps, 31498, 689.64
+Antigua & Deps, 30717, 577.0
+Antigua & Deps, 31620, 506.6
+Antigua & Deps, 34974, 212.6
+Antigua & Deps, 34683, 1827.94
+Antigua & Deps, 33349, 93.15
+Antigua & Deps, 35141, 1385.35
+Antigua & Deps, 44212, 1396.28
+Antigua & Deps, 40480, 1049.62
+Antigua & Deps, 38405, 1963.17
+Antigua & Deps, 36292, 1370.0
+Antigua & Deps, 43467, 1717.93
+Antigua & Deps, 47738, 668.72
+Antigua & Deps, 47249, 986.29
+Antigua & Deps, 45424, 452.5
+Antigua & Deps, 48466, 1729.2
+Colombia, 18466, 1953.2
+Colombia, 9990, 1836.65
+Colombia, 2173, 1504.93
+Colombia, 891, 309.34
+Colombia, 438, 227.01
+Colombia, 284, 454.44
+Colombia, 1646, 186.09
+Colombia, 1133, 1470.82
+Colombia, 5654, 54.06
+Colombia, 5146, 908.05
+Colombia, 3851, 563.42
+Colombia, 9563, 73.35
+Colombia, 15339, 169.47
+Colombia, 12802, 1251.35
+Colombia, 12620, 1599.8
+Colombia, 12572, 998.59
+Colombia, 14028, 48.54
+Colombia, 17456, 743.15
+Colombia, 17004, 459.09
+Colombia, 16636, 242.11
+Colombia, 18420, 1685.47
+Colombia, 31394, 1801.01
+Colombia, 25141, 1884.84
+Colombia, 23928, 204.72
+Colombia, 23607, 202.71
+Colombia, 19736, 54.76
+Colombia, 24081, 754.41
+Colombia, 28585, 1959.19
+Colombia, 27507, 1177.39
+Colombia, 26933, 1041.87
+Colombia, 31125, 888.82
+Colombia, 43530, 1299.51
+Colombia, 42357, 1129.05
+Colombia, 37922, 1385.99
+Colombia, 33391, 931.25
+Colombia, 42622, 1004.89
+Colombia, 49297, 1798.71
+Colombia, 44581, 125.32
+Colombia, 43775, 1649.95
+Colombia, 49574, 1662.45
+France, 27725, 1229.42
+France, 13978, 368.49
+France, 8061, 1847.16
+France, 6279, 1896.38
+France, 2597, 96.28
+France, 1755, 1179.73
+France, 7729, 1507.54
+France, 6441, 1032.59
+France, 11028, 1960.64
+France, 9521, 1099.54
+France, 8834, 1197.69
+France, 13505, 983.22
+France, 21688, 1988.41
+France, 19681, 616.85
+France, 16394, 1301.83
+France, 15243, 1078.82
+France, 20646, 1332.56
+France, 25334, 1001.02
+France, 24028, 1417.34
+France, 22527, 1514.0
+France, 26063, 1536.0
+France, 38242, 1344.14
+France, 32430, 1251.22
+France, 30896, 253.29
+France, 29794, 397.87
+France, 29037, 1852.03
+France, 31077, 340.33
+France, 35773, 259.63
+France, 34265, 842.73
+France, 32608, 1446.41
+France, 36654, 106.52
+France, 42838, 862.14
+France, 41760, 1994.98
+France, 41679, 1840.46
+France, 38888, 998.7
+France, 41983, 175.46
+France, 49344, 255.55
+France, 43992, 1935.72
+France, 43160, 1510.08
+France, 49704, 941.12
+Iraq, 31036, 1590.01
+Iraq, 17203, 1845.9
+Iraq, 5974, 918.47
+Iraq, 4241, 1553.25
+Iraq, 4170, 1059.81
+Iraq, 3646, 1361.25
+Iraq, 5871, 894.73
+Iraq, 4676, 1047.96
+Iraq, 12985, 140.79
+Iraq, 8760, 305.44
+Iraq, 6349, 238.13
+Iraq, 15513, 844.74
+Iraq, 25907, 1025.05
+Iraq, 18266, 1643.16
+Iraq, 18025, 675.45
+Iraq, 17892, 1061.01
+Iraq, 24594, 899.75
+Iraq, 29808, 940.04
+Iraq, 28816, 569.72
+Iraq, 26103, 1901.24
+Iraq, 29965, 323.86
+Iraq, 40550, 1475.07
+Iraq, 35978, 642.0
+Iraq, 34737, 1245.8
+Iraq, 33384, 48.12
+Iraq, 32879, 1029.46
+Iraq, 35683, 614.05
+Iraq, 37540, 827.63
+Iraq, 37471, 1939.18
+Iraq, 35983, 964.25
+Iraq, 38829, 692.41
+Iraq, 45893, 661.7
+Iraq, 43755, 1857.17
+Iraq, 42063, 1132.24
+Iraq, 41990, 570.92
+Iraq, 45378, 1238.2
+Iraq, 48704, 1075.92
+Iraq, 47513, 737.74
+Iraq, 47384, 920.32
+Iraq, 49874, 1998.43
+Uruguay, 18918, 277.12
+Uruguay, 11240, 732.37
+Uruguay, 5073, 126.98
+Uruguay, 1946, 417.28
+Uruguay, 1219, 1767.12
+Uruguay, 879, 1498.55
+Uruguay, 4934, 1814.29
+Uruguay, 2693, 1198.09
+Uruguay, 7878, 1504.22
+Uruguay, 7792, 1567.54
+Uruguay, 5363, 290.22
+Uruguay, 8306, 1435.35
+Uruguay, 16033, 998.4
+Uruguay, 14314, 1366.75
+Uruguay, 14262, 799.28
+Uruguay, 11362, 1121.62
+Uruguay, 15503, 1854.05
+Uruguay, 18247, 990.71
+Uruguay, 16810, 798.73
+Uruguay, 16646, 292.81
+Uruguay, 18568, 1443.99
+Uruguay, 36713, 1756.45
+Uruguay, 30177, 639.89
+Uruguay, 27674, 1799.09
+Uruguay, 22911, 558.54
+Uruguay, 19605, 473.6
+Uruguay, 28556, 1217.82
+Uruguay, 35346, 1406.46
+Uruguay, 34877, 99.61
+Uruguay, 33919, 1017.36
+Uruguay, 35544, 1788.44
+Uruguay, 46324, 141.59
+Uruguay, 44259, 172.01
+Uruguay, 38953, 789.91
+Uruguay, 37835, 1339.05
+Uruguay, 45230, 1781.24
+Uruguay, 48620, 1614.82
+Uruguay, 47990, 339.18
+Uruguay, 46457, 34.05
+Uruguay, 49636, 483.91
+Benin, 26963, 1099.26
+Benin, 12891, 610.28
+Benin, 6213, 572.64
+Benin, 2696, 993.77
+Benin, 2214, 1244.43
+Benin, 472, 231.01
+Benin, 3705, 993.75
+Benin, 3074, 1907.29
+Benin, 11332, 1699.36
+Benin, 9247, 1803.79
+Benin, 8341, 1257.09
+Benin, 11695, 1844.47
+Benin, 16533, 25.94
+Benin, 15812, 1100.95
+Benin, 14722, 1687.89
+Benin, 14018, 772.6
+Benin, 16419, 1406.73
+Benin, 21034, 1290.99
+Benin, 18560, 1758.19
+Benin, 18445, 879.43
+Benin, 21558, 1444.77
+Benin, 34926, 215.75
+Benin, 31207, 1536.27
+Benin, 30913, 903.71
+Benin, 30100, 1667.54
+Benin, 29861, 1498.14
+Benin, 31011, 28.57
+Benin, 33844, 997.36
+Benin, 31958, 1649.99
+Benin, 31397, 889.94
+Benin, 34117, 1203.9
+Benin, 42364, 930.41
+Benin, 38210, 1043.37
+Benin, 37738, 1098.63
+Benin, 35846, 1221.96
+Benin, 38276, 1977.06
+Benin, 44768, 1871.33
+Benin, 43644, 166.97
+Benin, 42958, 1962.24
+Benin, 47222, 889.0
+Cuba, 30101, 533.33
+Cuba, 13011, 1969.94
+Cuba, 7872, 1048.94
+Cuba, 4214, 375.55
+Cuba, 3093, 1912.01
+Cuba, 2085, 1776.21
+Cuba, 7421, 808.94
+Cuba, 6993, 810.65
+Cuba, 11058, 287.05
+Cuba, 10799, 1609.44
+Cuba, 8384, 215.17
+Cuba, 11222, 1079.17
+Cuba, 25512, 1458.64
+Cuba, 18785, 1805.19
+Cuba, 15776, 150.24
+Cuba, 15066, 1473.91
+Cuba, 18914, 1046.12
+Cuba, 27526, 959.1
+Cuba, 26789, 1149.08
+Cuba, 26216, 1262.73
+Cuba, 28706, 881.71
+Cuba, 39055, 210.72
+Cuba, 33116, 1271.06
+Cuba, 32337, 1356.28
+Cuba, 32128, 1726.6
+Cuba, 31360, 445.5
+Cuba, 33004, 185.79
+Cuba, 38530, 924.14
+Cuba, 36307, 698.21
+Cuba, 33342, 253.7
+Cuba, 38836, 499.32
+Cuba, 47827, 213.94
+Cuba, 42410, 874.93
+Cuba, 40493, 1410.74
+Cuba, 39781, 1946.83
+Cuba, 47207, 1090.34
+Cuba, 48953, 1801.01
+Cuba, 48892, 910.68
+Cuba, 48125, 1912.38
+Cuba, 49551, 364.89
+Brazil, 22641, 262.85
+Brazil, 7927, 1378.1
+Brazil, 3925, 1041.34
+Brazil, 435, 295.35
+Brazil, 301, 1158.68
+Brazil, 195, 1957.08
+Brazil, 2613, 830.42
+Brazil, 2146, 695.94
+Brazil, 5360, 716.12
+Brazil, 4758, 1180.11
+Brazil, 4674, 1699.06
+Brazil, 7127, 467.14
+Brazil, 16251, 796.47
+Brazil, 11625, 1583.34
+Brazil, 10890, 166.34
+Brazil, 10029, 1847.28
+Brazil, 15381, 1324.74
+Brazil, 21102, 417.11
+Brazil, 20565, 867.32
+Brazil, 19067, 846.92
+Brazil, 21438, 1851.73
+Brazil, 35570, 794.02
+Brazil, 25242, 950.49
+Brazil, 23220, 274.41
+Brazil, 23175, 259.79
+Brazil, 22644, 311.6
+Brazil, 23341, 231.97
+Brazil, 32789, 160.26
+Brazil, 31670, 569.42
+Brazil, 25288, 906.64
+Brazil, 34863, 795.64
+Brazil, 41305, 576.39
+Brazil, 38805, 1164.02
+Brazil, 37072, 217.5
+Brazil, 36015, 474.72
+Brazil, 41100, 1769.36
+Brazil, 46328, 1955.78
+Brazil, 45396, 540.38
+Brazil, 42181, 1079.69
+Brazil, 49071, 704.74
